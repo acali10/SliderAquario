@@ -13,7 +13,7 @@ Projeto de estudo que consiste em uma página de aquário com um **slider (carro
 
 ## 📷 Demonstração
 
-![Preview do Projeto](img/screenshot.png)
+![Preview do Projeto](img/screenshot.jpg)
 
 ---
 
